@@ -94,11 +94,11 @@ What excites me most is collaborating with others and pushing the boundaries of 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="28" alt="qt logo" />
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="28" alt="trello logo" />
-  <img width="6" />
+  <img width="9" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="28" alt="unity logo" />
 </div>
 
-
+<div align="left">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labidi-houssem/labidi-houssem/output/pacman-contribution-graph-dark.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/labidi-houssem/labidi-houssem/output/pacman-contribution-graph.svg">
