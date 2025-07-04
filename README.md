@@ -1,22 +1,13 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  Hi there! I'm Houssem, a passionate Computer Science Engineering student from Tunisia. Currently studying at ESPRIT, I'm driven by curiosity and a love for building innovative tech solutions. I enjoy transforming ideas into impactful web applications and always seek new challenges to grow.
+  My name is Houssem and I'm a Computer Science Engineering student from Tunisia.
 </p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-  I'm a tech enthusiast with a hunger for learning and a knack for creative problem-solving. My journey in computer science has led me to explore a wide range of technologies, from front-end frameworks like <b>React</b> to back-end powerhouses like <b>Node.js</b> and <b>Express</b>. <br><br>
-  What excites me most is collaborating with others and pushing the boundaries of what's possible with code. I thrive in environments where innovation meets teamwork, and I'm always looking for new challenges to expand my skills.<br><br>
-  <b>Here’s a little more about me:</b>
-  <ul>
-    <li>💡 <b>Innovation Lover:</b> Always exploring the latest trends in tech, from AI to cloud computing.</li>
-    <li>🤝 <b>Team Player:</b> I believe great things happen when people work together.</li>
-    <li>🌱 <b>Lifelong Learner:</b> Constantly seeking new knowledge through courses, hackathons, and open-source contributions.</li>
-    <li>☁️ <b>Cloud Architecture Enthusiast:</b> Passionate about learning cloud architecture and integrating scalable solutions into my projects.</li>
-    <li>🌍 <b>Global Vision:</b> I aspire to use technology to solve real-world problems and make a positive impact.</li>
-  </ul>
+  ✨ I'm a Computer Science Engineering student at ESPRIT with a passion for developing innovative web applications. I specialize in using React, Express, and Node.js to bring ideas to life. Currently, I'm expanding my skills in cloud architecture. Let's connect and explore the endless possibilities in technology together!
 </p>
 
 <h2 align="left">I code with</h2>
@@ -96,10 +87,8 @@
   <img width="6" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="28" alt="trello logo" />
   <img width="6" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="28"  height="40"  alt="unity logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="28" alt="unity logo" />
 </div>
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labidi-houssem/labidi-houssem/output/pacman-contribution-graph-dark.svg">
@@ -111,15 +100,15 @@
 
 <div align="center">
   <a href="mailto:houssemm.labidi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/houssem-labidi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.facebook.com/houssem.alabidi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="facebook logo"  />
   </a>
   <a href="https://www.instagram.com/houssem.labidi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="instagram logo"  />
   </a>
 </div>
