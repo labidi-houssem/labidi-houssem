@@ -1,16 +1,22 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">
-  My name is Houssem and I'm a Computer Science Engineering student from Tunisia.
-</p>
+###
+
+<p align="left">My name is houssem  and I'm a computer science engineering student , from tunisia</p>
+
+###
 
 <h2 align="left">About me</h2>
 
-<p align="left">
-  ✨ I'm a Computer Science Engineering student at ESPRIT with a passion for developing innovative web applications. I specialize in using React, Express, and Node.js to bring ideas to life. Currently, I'm expanding my skills in cloud architecture. Let's connect and explore the endless possibilities in technology together!
-</p>
+###
+
+<p align="left">✨ I'm a Computer Science Engineering student at ESPRIT with a passion for developing innovative web and mobile applications. I specialize in using React, Express, and Node.js to bring ideas to life. Let's connect and explore the endless possibilities in technology together!</p>
+
+###
 
 <h2 align="left">I code with</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -90,25 +96,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
+###
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/labidi-houssem/labidi-houssem/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/labidi-houssem/labidi-houssem/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/labidi-houssem/labidi-houssem/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/housssemm/housssemm/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/housssemm/housssemm/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/housssemm/housssemm/output/pacman-contribution-graph.svg">
 </picture>
+
+###
 
 <h2 align="left">💬 Let's Connect!</h2>
 
+###
+
 <div align="center">
-  <a href="mailto:houssemm.labidi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/houssem-labidi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/houssem.alabidi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/houssem.labidi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="instagram logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/housssemm/housssemm/output/snake.svg" alt="Snake animation" />
+
+###
