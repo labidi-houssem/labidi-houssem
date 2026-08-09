@@ -53,6 +53,8 @@ What excites me most is collaborating with others and pushing the boundaries of 
   <img width="20" />
   <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" alt="typescript logo" />
   <img width="20" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="react logo" />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="nextjs logo" />
