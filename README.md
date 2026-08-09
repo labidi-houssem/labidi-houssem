@@ -7,8 +7,14 @@ Hi there! I'm Houssem, a passionate Computer Science Engineering student from Tu
 <h2 align="left">About me</h2>
 
 <p align="left">
-I'm a tech enthusiast with a hunger for learning and a knack for creative problem-solving. My journey in computer science has led me to explore a wide range of technologies, from front-end frameworks like <b>React</b> to back-end powerhouses like <b>Node.js</b> and <b>Express</b>. <br><br>
-What excites me most is collaborating with others and pushing the boundaries of what's possible with code. I thrive in environments where innovation meets teamwork, and I'm always looking for new challenges to expand my skills.<br><br>
+I'm Houssem Labidi, a Computer Science Engineering student at ESPRIT with a strong interest in <b>Cloud Computing, Cloud Architecture, DevOps, and DevSecOps</b>. I enjoy designing and automating reliable, scalable, and secure IT infrastructures using technologies such as <b>Terraform, Ansible, Docker, Kubernetes, and CI/CD</b>.<br><br>
+
+Through academic projects and hands-on experience, I have been developing skills in <b>cloud infrastructure, Infrastructure as Code, containerization, orchestration, monitoring, networking, and automation</b>. I am particularly interested in building modern cloud-native platforms and continuously improving my knowledge of distributed systems and infrastructure engineering.<br><br>
+
+Currently, I am looking for an <b>End-of-Studies Project (PFE)</b> opportunity where I can contribute to real-world projects in <b>Cloud Architecture, Cloud Engineering, DevOps, or DevSecOps</b> while continuing to grow as a future Cloud Engineer / Cloud Architect.
+
+</p>
+<br><br>
 <b>Here’s a little more about me:</b>
 <ul>
 <li>💡 <b>Innovation Lover:</b> Always exploring the latest trends in tech, from AI to cloud computing.</li>
